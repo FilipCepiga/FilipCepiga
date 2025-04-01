@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**FilipCepiga/FilipCepiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Python Developer** and **AI Enthusiast** with a strong focus on **Machine Learning**, **Data Science**, and **Cloud Technologies**. I love solving complex problems and learning new technologies. Currently, I am focused on building machine learning models and analyzing data to extract valuable insights.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C++
+- **Machine Learning**: scikit-learn, TensorFlow, Keras
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
+- **Cloud**: Google Cloud Platform (BigQuery, Cloud Functions)
+- **Version Control**: Git, GitHub
+- **Tools**: Jupyter, VS Code
+
+## 🔥 Projects
+
+### [Flight Price Prediction](https://github.com/FilipCepiga/flight-price-prediction)
+This project uses machine learning to predict flight ticket prices based on factors such as departure time, stops, flight duration, and more.
+
+### [Travel Recommender System](https://github.com/yourusername/travel-recommender)
+A recommendation system for travelers that suggests destinations based on historical data and user preferences.
+
+### [Machine Learning Algorithms](https://github.com/yourusername/ml-algorithms)
+A collection of machine learning algorithms implemented from scratch for educational purposes.
+
+## 📫 How to reach me
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+## 💬 Let's collaborate
+I'm always open to collaborating on exciting projects! If you have an interesting idea or want to discuss machine learning, data science, or any cool tech-related topics, feel free to reach out!
